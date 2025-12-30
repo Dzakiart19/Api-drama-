@@ -1,0 +1,5 @@
+{
+  "name": "DramaBox Unofficial API Explorer",
+  "description": "A comprehensive developer dashboard and real-time API explorer for the unofficial DramaBox scraping service. Test endpoints, view structured JSON responses, and preview metadata for short-form dramas.",
+  "requestFramePermissions": []
+}
